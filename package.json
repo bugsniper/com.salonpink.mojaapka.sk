@@ -22,7 +22,8 @@
   },
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-plugin-statusbar": {},
@@ -31,5 +32,8 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {}
     }
+  },
+  "dependencies": {
+    "cordova-ios": "^5.1.1"
   }
 }
