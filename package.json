@@ -13,7 +13,7 @@
   "author": "Apache Cordova Team",
   "license": "Apache-2.0",
   "devDependencies": {
-    "cordova-android": "^10.1.2",
+    "cordova-android": "^9.1.0",
     "cordova-plugin-device": "^2.1.0",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^5.0.0",
@@ -22,7 +22,8 @@
   },
   "cordova": {
     "platforms": [
-      "android"
+      "android",
+      "ios"
     ],
     "plugins": {
       "cordova-plugin-statusbar": {},
@@ -31,5 +32,8 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {}
     }
+  },
+  "dependencies": {
+    "cordova-ios": "^5.1.1"
   }
 }
