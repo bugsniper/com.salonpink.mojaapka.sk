@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="522c9128-8423-4b3d-8679-78060888e15c" name="Default Changelist" comment="" />
+    <list default="true" id="522c9128-8423-4b3d-8679-78060888e15c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.604b82be211799503419.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.b7e307e0703b384e1f46.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/styles.7eb6584af0bd95350b51.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.b6296174b655d6d15b68.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2KbNKRCoTs3XzddElpHWOQmvzcy" />
   <component name="ProjectViewState">
@@ -33,6 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1674239257344</updated>
       <workItem from="1674239258393" duration="786000" />
+      <workItem from="1674482272484" duration="466000" />
+      <workItem from="1675664586300" duration="36000" />
     </task>
     <servers />
   </component>
