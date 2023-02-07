@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="522c9128-8423-4b3d-8679-78060888e15c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/config.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/www/app/business-place-v2/assets/scss/styles.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/main.604b82be211799503419.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main.b7e307e0703b384e1f46.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/main.b7e307e0703b384e1f46.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/www/ngsw.json" beforeDir="false" afterPath="$PROJECT_DIR$/www/ngsw.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/styles.7eb6584af0bd95350b51.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/styles.b6296174b655d6d15b68.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +43,18 @@
       <updated>1674239257344</updated>
       <workItem from="1674239258393" duration="786000" />
       <workItem from="1674482272484" duration="466000" />
-      <workItem from="1675664586300" duration="36000" />
+      <workItem from="1675664586300" duration="700000" />
+      <workItem from="1675733776434" duration="15000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1675665446479">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1675665446479" />
   </component>
 </project>
